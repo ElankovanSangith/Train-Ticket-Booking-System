@@ -1,0 +1,6 @@
+admin - admin@admin.com
+pword - Password@123
+
+User - aa@gmail.com
+pword - 123456
+
